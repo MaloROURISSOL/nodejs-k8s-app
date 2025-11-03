@@ -32,5 +32,6 @@ export default defineConfig([{
         quotes: ["error", "single"],
         semi: ["error", "always"],
         "no-console": "off",
+        "no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
     },
 }]);
