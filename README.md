@@ -25,3 +25,10 @@ malorourissol@Mac-mini-de-Malo nodejs-k8s-app % curl -X POST http://localhost:30
   -d '{"a": 10, "b": 5}'
 {"sum":15,"product":50,"difference":5,"quotient":2}% 
 ```
+
+## GitHub Actions
+Tous les tests passent avec succès.
+
+![GitHub Actions](./img/Capture%20d’écran%202025-11-06%20à%2009.01.35.png)
+
+## Kubernetes
